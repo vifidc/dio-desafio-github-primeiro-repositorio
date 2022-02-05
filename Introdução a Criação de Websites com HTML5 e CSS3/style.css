@@ -22,6 +22,8 @@ a {
     text-decoration: line-through;
     color: #505050;
 }
+
+
 .post_title {
     font-size: 16px;
     font-style: italic;
@@ -45,5 +47,14 @@ a {
 
 .post_image {
     margin-bottom: 15px;
+}
+
+.compacts_list {
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.compacts_list li a {
+    text-decoration: none;
 }
 
